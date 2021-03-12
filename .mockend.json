@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-    "Product": {
+   "Product": {
     "name": "string",
     "departmentId": "int",
     "categoryId": "int",
@@ -30,5 +30,5 @@
     "showWithoutStock": "boolean",
     "adWordsRemarketingCode": "string",
     "lomadeeCampaignCode": "string"
-  },
+  }
 }
