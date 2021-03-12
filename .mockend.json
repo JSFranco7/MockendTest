@@ -1,30 +1,30 @@
 {
   "Product": {
-      "Name":"Tabela de Basquete",
-      "DepartmentId":59,
-      "CategoryId":59,
-      "BrandId":2000018,
-      "LinkId":"Tabela-de-Basquete",
-      "RefId":"",
-      "IsVisible":true,
-      "Description":"Tabela de Basquete",
-      "DescriptionShort":"",
-      "ReleaseDate":"2014-04-30T00:00:00",
-      "KeyWords":"Basquete, NBA, Tabela, NBB",
-      "Title":"Tabela de Basquete",
-      "IsActive":true,
-      "TaxCode":"",
-      "MetaTagDescription":"Tabela de Basquete",
-      "SupplierId":1,
-      "ShowWithoutStock":false,
-      "ListStoreId":[
+      "name":"Tabela de Basquete",
+      "departmentId":59,
+      "categoryId":59,
+      "brandId":2000018,
+      "linkId":"Tabela-de-Basquete",
+      "refId":"",
+      "isVisible":true,
+      "description":"Tabela de Basquete",
+      "descriptionShort":"",
+      "releaseDate":"2014-04-30T00:00:00",
+      "keyWords":"Basquete, NBA, Tabela, NBB",
+      "title":"Tabela de Basquete",
+      "isActive":true,
+      "taxCode":"",
+      "metaTagDescription":"Tabela de Basquete",
+      "supplierId":1,
+      "showWithoutStock":false,
+      "listStoreId":[
           1,
           2,
           3,
           10
       ],
-      "AdWordsRemarketingCode": null,
-      "LomadeeCampaignCode": null
+      "adWordsRemarketingCode": null,
+      "lomadeeCampaignCode": null
    }
   
 }
