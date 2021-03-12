@@ -1,0 +1,28 @@
+{
+  "Id":2001426
+  "Name":"Tabela de Basquete"
+  "DepartmentId":59
+  "CategoryId":59
+  "BrandId":2000018
+  "LinkId":"Tabela-de-Basquete"
+  "RefId":""
+  "IsVisible":true
+  "Description":"Tabela de Basquete"
+  "DescriptionShort":""
+  "ReleaseDate":"2014-04-30T00:00:00"
+  "KeyWords":"Basquete, NBA, Tabela, NBB"
+  "Title":"Tabela de Basquete"
+  "IsActive":true
+  "TaxCode":""
+  "MetaTagDescription":"Tabela de Basquete"
+  "SupplierId":1
+  "ShowWithoutStock":false
+  "ListStoreId":[
+    1
+    2
+    3
+    10
+    ]
+  "AdWordsRemarketingCode":NULL
+  "LomadeeCampaignCode":NULL
+}
