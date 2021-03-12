@@ -9,5 +9,26 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  }
+  },
+    "Product": {
+    "name": "string",
+    "departmentId": "int",
+    "categoryId": "int",
+    "brandId": "int",
+    "linkId": "string",
+    "refId": "string",
+    "isVisible": "boolean",
+    "description": "string",
+    "descriptionShort": "string",
+    "releaseDate": "date",
+    "keyWords": "string",
+    "title": "string",
+    "isActive": "boolean",
+    "taxCode": "string",
+    "metaTagDescription": "string",
+    "supplierId": "int",
+    "showWithoutStock": "boolean",
+    "adWordsRemarketingCode": "string",
+    "lomadeeCampaignCode": "string"
+  },
 }
